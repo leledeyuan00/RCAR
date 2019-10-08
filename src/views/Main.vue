@@ -15,7 +15,8 @@
             <el-col :span="18"><div><Body/></div></el-col>
         </el-row>      
         </el-main>
-        <el-footer class="pt-4">foot</el-footer>
+        <el-footer>
+          <img src="./../../icon/committee_logo.png"  alt="" /></el-footer>
     </el-container>
 
 </div>
