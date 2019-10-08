@@ -3,13 +3,13 @@
     <div class="Header"><Head/></div>   
     <Navigator/>
     <Carousel/>
-    <h4 class="pt-5">Important Data</h4>
+    <h4 class="pt-5">Important Data<i class="el-icon-date el-icon--right"></i></h4>
     <el-row type="flex" class="row-bg" justify="space-around">
         <el-col :span="7.5"><div class="grid-content bg-purple"><TimeTable/></div></el-col>
     </el-row>
 
     <el-container>
-        <h4 class="pt-2">Welcome Message</h4>
+        <h4 class="pt-2">Welcome Message<i class="el-icon-magic-stick el-icon--right"></i></h4>
         <el-main class="pt-4">
         <el-row type="flex" class="row-bg" justify="space-around">
             <el-col :span="18"><div><Body/></div></el-col>

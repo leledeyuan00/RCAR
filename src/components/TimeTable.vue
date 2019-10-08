@@ -10,6 +10,7 @@
     <el-table-column
       prop="date"
       width="150">
+      
     </el-table-column>
   </el-table>
 </template>
