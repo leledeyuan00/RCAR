@@ -1,12 +1,11 @@
 <template>
 <el-menu
-  :default-active="activeIndex2"
+  :default-active="0"
   class="el-menu-demo"
   mode="horizontal"
   @select="handleSelect"
   background-color="#3E99C9"
   text-color="#FFF"
-  
   >
   <el-menu-item index="1">
     <p class="el-icon-house pt-2"></p>

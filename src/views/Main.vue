@@ -16,7 +16,7 @@
         </el-row>      
         </el-main>
         <el-footer>
-          <img src="./../../icon/committee_logo.png"  alt="" /></el-footer>
+          <img src="./../../icon/committee_logo2.png"  alt="" /></el-footer>
     </el-container>
 
 </div>
