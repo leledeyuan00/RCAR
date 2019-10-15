@@ -2,7 +2,8 @@
   <el-table
     :data="tableData"
     style="width: 100%"
-    :row-class-name="tableRowClassName">
+    :row-class-name="tableRowClassName"
+    :show-header="false">
     <el-table-column
       prop="info"
       width="400">
